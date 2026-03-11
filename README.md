@@ -11,7 +11,7 @@ A simple AI-powered calculator agent built with LangChain and LangGraph. The age
 ## Requirements
 
 - Python 3.8+
-- OpenAI API key
+- OpenAI API keys
 
 ## Installation
 

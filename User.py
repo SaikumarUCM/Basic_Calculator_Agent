@@ -3,7 +3,7 @@ from calculator_agent import agent
 from langchain_core.messages import HumanMessage
 
 # Prepare the initial message
-human_message = HumanMessage(content="Add 10 and 5. Multiply the output by 10. Divide the output by 15. Subtract the output by 5. And multiply the output by 9")
+human_message = HumanMessage(content="Hi , how are you?")
 
 # Create an instance of the agent (the compiled graph)
 my_agent = agent()
